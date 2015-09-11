@@ -5,4 +5,5 @@
 4.Get 2 knifes, the peanut butter and the jelly
 5.With One knife stick it in the Peanut Butter and spead it on one peice of bread
 6.With the other knife spead the jelly on the other peice of bread
-7.Put Both Peices of Bread Together
+7.Put Both Peices of Bread Together 
+
